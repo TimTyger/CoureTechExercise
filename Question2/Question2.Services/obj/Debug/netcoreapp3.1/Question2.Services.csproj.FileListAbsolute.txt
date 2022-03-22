@@ -1,0 +1,13 @@
+C:\Users\dell\source\repos\Question2\Question2.Services\bin\Debug\netcoreapp3.1\Question2.Services.exe
+C:\Users\dell\source\repos\Question2\Question2.Services\bin\Debug\netcoreapp3.1\Question2.Services.deps.json
+C:\Users\dell\source\repos\Question2\Question2.Services\bin\Debug\netcoreapp3.1\Question2.Services.runtimeconfig.json
+C:\Users\dell\source\repos\Question2\Question2.Services\bin\Debug\netcoreapp3.1\Question2.Services.runtimeconfig.dev.json
+C:\Users\dell\source\repos\Question2\Question2.Services\bin\Debug\netcoreapp3.1\Question2.Services.dll
+C:\Users\dell\source\repos\Question2\Question2.Services\bin\Debug\netcoreapp3.1\Question2.Services.pdb
+C:\Users\dell\source\repos\Question2\Question2.Services\obj\Debug\netcoreapp3.1\Question2.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\Question2\Question2.Services\obj\Debug\netcoreapp3.1\Question2.Services.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\Question2\Question2.Services\obj\Debug\netcoreapp3.1\Question2.Services.AssemblyInfo.cs
+C:\Users\dell\source\repos\Question2\Question2.Services\obj\Debug\netcoreapp3.1\Question2.Services.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\Question2\Question2.Services\obj\Debug\netcoreapp3.1\Question2.Services.dll
+C:\Users\dell\source\repos\Question2\Question2.Services\obj\Debug\netcoreapp3.1\Question2.Services.pdb
+C:\Users\dell\source\repos\Question2\Question2.Services\obj\Debug\netcoreapp3.1\Question2.Services.genruntimeconfig.cache
